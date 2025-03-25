@@ -68,14 +68,13 @@ The project consists of the following files:
 4.  Upload an image of a cat or dog to the app.
 5.  The app will display the predicted class (cat or dog).
 
-## Model Architecture (If applicable, expand based on notebook content)
+## Model Architecture
 
 The CNN model consists of the following layers:
 
 *   Convolutional layers
 *   Max pooling layers
 *   Fully connected layers
-*   (Add more details as needed)
 
 ## Contributing
 
