@@ -9,8 +9,8 @@ The project consists of the following files:
 *   `Cats_vs_Dogs_Classification.ipynb`: A Jupyter Notebook containing the code for building, training, and evaluating the CNN model.
 *   `Streamlit_Code.py`: A Python script for creating a Streamlit web application to predict image classes.
 *   `model_source_code.py`: Python script to define the CNN model.
-*   `cat.jpg`: An example cat image.
-*   `dog.jpg`: An example dog image.
+*   `cat.jpg`: An example cat image for model testing.
+*   `dog.jpg`: An example dog image for model testing.
 *   `requirements.txt`: A list of Python packages required to run the code.
 
 ## Setup
